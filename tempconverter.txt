@@ -1,0 +1,5 @@
+Measurement #1 of type temperature
+The value before conversion was:
+45.000000 F 
+280.372222 K 
+
